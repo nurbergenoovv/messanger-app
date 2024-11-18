@@ -1,0 +1,38 @@
+Android Credentials   
+Project                 reminder
+Application Identifier  com.defiveninth.reminder
+
+Push Notifications (FCM Legacy)
+  None assigned yet
+
+Push Notifications (FCM V1): Google Service Account Key For FCM V1
+  None assigned yet
+
+Submissions: Google Service Account Key for Play Store Submissions
+  None assigned yet
+
+Configuration: Build Credentials WvNHQ9Hbn1 (Default)
+Keystore
+Type                JKS
+Key Alias           19d154dded1a24c51a34e2ffbf04afdf
+MD5 Fingerprint     80:3B:97:5D:B9:47:7B:82:37:0D:FA:CE:AA:18:84:CE
+SHA1 Fingerprint    34:3E:6A:8A:6A:96:BE:B9:DB:AD:48:D8:F2:82:65:C0:14:6B:11:2F
+SHA256 Fingerprint  DB:00:79:AA:44:D4:9A:34:21:84:A4:E6:13:83:FE:56:BE:8B:02:1B:9C:12:6F:6A:6B:8D:F5:A8:E6:76:6C:78
+Updated             1 day ago
+
+√ What do you want to do? » Download existing keystore
+√ Do you want to display the sensitive information of the Android Keystore? ... yes
+Saving Keystore to @defiveninth__reminder.jks
+Type                JKS
+Key Alias           19d154dded1a24c51a34e2ffbf04afdf
+MD5 Fingerprint     80:3B:97:5D:B9:47:7B:82:37:0D:FA:CE:AA:18:84:CE
+SHA1 Fingerprint    34:3E:6A:8A:6A:96:BE:B9:DB:AD:48:D8:F2:82:65:C0:14:6B:11:2F
+SHA256 Fingerprint  DB:00:79:AA:44:D4:9A:34:21:84:A4:E6:13:83:FE:56:BE:8B:02:1B:9C:12:6F:6A:6B:8D:F5:A8:E6:76:6C:78
+Updated             1 day ago
+
+Sensitive Keystore information:
+    Keystore password: ce48cb384a8531488d4b9dcd50bf4f43
+    Key alias:         19d154dded1a24c51a34e2ffbf04afdf
+    Key password:      0f6ee6f1a7a0e8fb6fa07b465d00848c
+
+    Path to Keystore:  @defiveninth__reminder.jks
